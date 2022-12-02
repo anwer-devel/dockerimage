@@ -7,4 +7,4 @@ RUN npm run build --prod
 
 #Stage: 2 
 FROM nginx:alpine
-COPY --from=node /app/dist/bbbank-ui /usr/share/nginx/html
+COPY --from=node /app/dist/angular-auiz-app /usr/share/nginx/html
