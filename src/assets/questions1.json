@@ -1,0 +1,67 @@
+{
+    "questions": [{
+            "questionText": "Quelles infections sexuellement transmissibles (IST) connaissez-vous??",
+            "options": [{
+                    "text": "Blennorragie, Chlamydiae",
+                    "correct": true
+                },
+                {
+                    "text": "des rapports sexuels non protégés"
+                },
+                {
+                    "text": "Par l’air"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+        {
+            "questionText": "Comment peut-on se protéger contre les infections sexuellement transmissibles (IST)?",
+            "options": [
+                {
+                    "text": "En présence de symptômes, le plus vite possible"
+                },
+                {
+                    "text": "c'est pas la pein de Consulter un médecin en présence de symptômes"
+                },
+                {
+                    "text": "En utilisant un préservatif",
+                    "correct": true
+                }
+            ],
+            "explanation": "enum is not used as a type in TypeScript"
+        },
+        {
+            "questionText": "Quand devrait-on faire un dépistage des infections sexuellement transmissibles (IST)??",
+            "options": [{
+                    "text": "pas changement fréquent de partenaires sexuels."
+                },
+                {
+                    "text": "En présence de symptômes, le plus vite possible.",
+                    "correct": true
+                },
+                {
+                    "text": "a la fin d’une nouvelle relation.."
+                }
+            ],
+            "explanation": "interfaces are typically used to list the properties and methods for an object"
+        },
+        {
+            "questionText": "Contre quelles infections sexuellement transmissibles (IST) existe-t-il des vaccins ?",
+            "options": [{
+                    "text": "@number"
+                },
+                {
+                    "text": "Hépatites A et B",
+                    "correct": true
+                },
+                {
+                    "text": "tension"
+                },
+                {
+                    "text": "Syphilis"
+                }
+            ],
+            "explanation": "number[] is another way of writing Array<number> in TypeScript"
+        }
+    ]
+}

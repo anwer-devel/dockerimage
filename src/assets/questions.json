@@ -1,0 +1,91 @@
+{
+    "questions": [{
+            "questionText": "Le sida, qu’est-ce que c’est :?",
+            "options": [{
+                    "text": "Le sida est une maladie de toxicos"
+                    
+                },
+                {
+                    "text": "avec traitements, ces maladies induites peuvent entrainer le mort"
+                },
+                {
+                    "text": "On parle de sida que lorsque le système immunitaire est tellement affaibli par le VIH qu’il n’est plus capable de lutter contre les maladies graves",
+                    "correct": true
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+        {
+            "questionText": "Qu’est-ce que le VIH ?",
+            "options": [{
+                    "text": "Le VIH ne est pas responsable de la maladie du sida"
+                },
+                {
+                    "text": "Le VIH est la conséquence de la maladie du sida"
+                },
+                
+                {
+                    "text": "Le système immunitaire est progressivement affaibli par la multiplication du virus pendant des nombreuses années sans signes cliniques de l’infection",
+                    "correct": true
+                }
+            ],
+            "explanation": "enum is not used as a type in TypeScript"
+        },
+        {
+            "questionText": "Existe-t-il une différence entre VIH et sida?",
+            "options": [{
+                    "text": "Le deux termes ayant la même désignation"
+                },
+                {
+                    "text": "VIH n'est pas la désignation de virus, une personne est infectée et séropositive",
+                    "correct": true
+                },
+                {
+                    "text": "Le terme sida n’est utilisé qu’à partir du moment où le système immunitaire est tellement affaibli que des maladies sont induites",
+                    "correct": true
+                }
+            ],
+            "explanation": "interfaces are typically used to list the properties and methods for an object"
+        },
+        {
+            "questionText": "Le VIH est-il mortel ??",
+            "options": [{
+                    "text": "Oui"
+                },
+                {
+                    "text": "Non",
+                    "correct": true
+                }
+            ],
+            "explanation": "number[] is another way of writing Array<number> in TypeScript"
+        },
+        {
+            "questionText": "Existe-t-il un vaccin contre le VIH ??",
+            "options": [{
+                    "text": "Non",
+                    "correct": true
+                },
+                {
+                    "text": "Oui"
+                }
+            ],
+            "explanation": "a constructor is used by a class to take in parameters"
+        },
+        {
+            "questionText": "Le VIH se transmet uniquement par :?",
+            "options": [
+                {
+                    "text": "Les moustiques, l’urine"
+                },
+                {
+                    "text": "La salive, les baisers et les larmes"
+                },
+                {
+                    "text": "Les liquides sexuels, le sang, le lait maternel et le sperme",
+                    "correct": true
+                }
+            ],
+            "explanation": "async is not used as an access modifier type in TypeScript"
+        }
+    ]
+}

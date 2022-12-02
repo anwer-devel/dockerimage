@@ -1,0 +1,81 @@
+{
+    "questions": [{
+            "questionText": "Est-ce que le traitement pris par une personne séropositive peut lui permettre de ne plus transmettre son VIH, et ce même lors de relations sexuelles sans préservatif ?",
+            "options": [{
+                    "text": "Oui si elle a une charge virale indétectable, son taux de virus est très faible",
+                    "correct": true
+                },
+                {
+                    "text": "Oui mais uniquement pour les femmes séropositives"
+                },
+                {
+                    "text": "Non, ce n’est pas encore possible"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+        {
+            "questionText": "L’espérance de vie d’une personne vivant avec le VIH et qui a une charge virale indétectable grâce à son traitement est-elle quasi égale à celle d’une personne séronégative ?",
+            "options": [{
+                    "text": "Non, être séropositif diminue fortement l’espérance de vie"
+                },
+                {
+                    "text": "Non, l’espérance de vie moyenne d’une personne séropositive est de 5 ans"
+                },
+                {
+                    "text": "Oui, une personne vivant avec le VIH et qui est sous traitement peut vivre en bonne santé et avoir une espérance de vie quasi égale à celle d’une personne séronégative",
+                    "correct": true
+                }
+            ],
+            "explanation": "enum is not used as a type in TypeScript"
+        },
+        {
+            "questionText": "Un couple où l’un·e des 2 partenaires est séropositif·ve peut-il avoir des enfants de manière naturelle ??",
+            "options": [{
+                    "text": "Absolument pas car le·la partenaire séronégatif·ve serait alors infecté·e et l’enfant aussi."
+                },
+                {
+                    "text": " Oui, si la personne séropositive a une charge virale indétectable.",
+                    "correct": true
+                },
+                {
+                    "text": "Non car le risque est trop grand de transmettre le VIH à son·sa partenaire séronégatif·ve"
+                }
+            ],
+            "explanation": "interfaces are typically used to list the properties and methods for an object"
+        },
+        {
+            "questionText": "Une personne séropositive qui a une charge virale indétectable… :",
+            "options": [{
+                    "text": "N’a plus du tout de VIH dans son corps."
+                },
+                {
+                    "text": " N’a, grâce aux traitements, presque plus de VIH dans son organisme.",
+                    "correct": true
+                },
+                {
+                    "text": "A du VIH dans le corps mais on ne sait pas dire si elle en a un peu ou beaucoup.!"
+                },
+                {
+                    "text": " N’a plus du tout de VIH dans son corps"
+                }
+            ],
+            "explanation": "number[] is another way of writing Array<number> in TypeScript"
+        },
+        {
+            "questionText": "Quand est-ce que je dois prendre un traitement post-exposition (TPE) ?",
+            "options": [{
+                    "text": "Dans les 48h (72h maximum) après une relation sexuelle à risque.",
+                    "correct": true
+                },
+                {
+                    "text": "Dans les 48h (72h maximum) après une relation sexuelle à risque."
+                },
+                {
+                    "text": " 4h avant une relation sexuelle."
+                }
+            ],
+            "explanation": "a constructor is used by a class to take in parameters"
+        }
+    ]
+}
